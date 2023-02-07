@@ -1,0 +1,1 @@
+# vite-react-prisma-template
